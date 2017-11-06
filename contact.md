@@ -4,7 +4,7 @@ layout: contact_temp
 filename: contact
 --- 
 
-# Contact Me
+# Get in Touch
 
 
 <i class="fa fa-linkedin" aria-hidden="true"></i> <a href="www.linkedin.com/in/ishugarg" title="LinkedIn">LinkedIn</a>&emsp;
