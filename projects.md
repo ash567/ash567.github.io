@@ -19,7 +19,6 @@ filename: projects
               <div style = "text-align: justify"> <h6> <font color="black"> Worked on 3-D geometry aware deep neural networks that decomposes frame-to-frame pixel motion in terms of cameramotion, object depth, rotation and translation; predicts meaningful depth maps from the single monocular 2-d image,estimates motion and segments moving objects even though such supervision is never provided.</font></h6></div>
             </td>
          </tr>
-         
       </table>
    </li>
 </ul>
