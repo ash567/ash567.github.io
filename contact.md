@@ -9,16 +9,14 @@ filename: contact
 
 <i class="fa fa-linkedin" aria-hidden="true"></i> <a href="www.linkedin.com/in/ishugarg" title="LinkedIn">LinkedIn</a>&emsp;
 <i class="fa fa-facebook" aria-hidden="true"></i> <a href="https://www.facebook.com/ishugarg567" title="facebook">Facebook</a>&emsp;
-
 <i class="fa fa-skype" aria-hidden="true"></i> ishu9&emsp;
-
 <script type="text/javascript" src="https://secure.skypeassets.com/i/scom/js/skype-uri.js"></script>
-<div id="SkypeButton_Call_ishu9_1">
+<div id="SkypeButton_Call_ishugarg9_1">
  <script type="text/javascript">
  Skype.ui({
  "name": "dropdown",
- "element": "SkypeButton_Call_ishu9_1",
- "participants": ["ishu9"]
+ "element": "SkypeButton_Call_ishugarg9_1",
+ "participants": ["ishugarg9"]
  });
  </script>
 </div>
