@@ -6,7 +6,7 @@ filename: projects
 
 # Key Projects:
 THISTLE
-<body style="background-color:IVORY;">
+<body style="background-color:GHOSTWHITE;">
 <ol>
    <li>
       <h5><b><font color="black">Title: </font></b><font color="red">Learning of Structure and Motion from Video</font></h5>
