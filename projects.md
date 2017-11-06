@@ -5,5 +5,3 @@ filename: projects
 --- 
 
 # Projects
-
-Coming soon
