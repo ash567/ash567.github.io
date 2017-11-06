@@ -7,5 +7,5 @@ filename: contact
 # Contact Me
 
 <a href="www.linkedin.com/in/ishugarg" title="LinkedIn">
-<i class="fa fa-linkedin" aria-hidden="true"> LinkedIn</i>
+<i class="fa fa-linkedin"> LinkedIn</i>
 </a>
