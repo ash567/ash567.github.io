@@ -7,9 +7,9 @@ filename: projects
 # Projects:
 <ul style="list-style-type:none">
    <li>
-      <h3><font color="red"> Learning of Structure and Motion from Video </font></h3>
-      <h5><i><b><font color="red"> Machine Learning Department, Carnegie Mellon University, May-July 2017 Pittsburgh, USA </font></b></i></h5>
-      <a href="https://www.cs.cmu.edu/~katef/"><font color="red"><h5> Advisor: Prof. Katerina Fragkiadaki </h5></font> </a>
+      <h3><font color="red">Title: Learning of Structure and Motion from Video </font></h3>
+      <h5><i><b><font color="black">Place: </font><font color="red">Machine Learning Department, Carnegie Mellon University, May-July 2017 Pittsburgh, USA </font></b></i></h5>
+      <a href="https://www.cs.cmu.edu/~katef/"><h5><font color="red">Advisor: Prof. Katerina Fragkiadaki </h5></font> </a>
       <table width="100%" align="center" border="0" cellspacing="0">
          <tr>
             <td width="100%">
