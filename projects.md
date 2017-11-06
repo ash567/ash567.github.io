@@ -5,7 +5,7 @@ filename: projects
 --- 
 
 # Projects:
-<l>
+<ul style="list-style-type:none">
    <li><h3>Learning of Structure and Motion from Video</h3><font color="grey"><h5><i><b> Machine Learning Department, Carnegie Mellon University, May-July 2017 Pittsburgh, USA</b></i></h5></font>
       <a href="https://www.cs.cmu.edu/~katef/"><font color="black"><h5> Advisor: Prof. Katerina Fragkiadaki </h5></font> </a>
       <table width="100%" align="center" border="0" cellspacing="0">
