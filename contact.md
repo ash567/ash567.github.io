@@ -5,7 +5,7 @@ filename: contact
 --- 
 
 # Get in Touch
-If you want to reach me out, the best way is to <br>
+If you want to reach me out, the best way is to call me or send me a message on hangout or messenger!<br>
 <b>Professional:</b> <i class="fa fa-linkedin" aria-hidden="true"></i> <a href="www.linkedin.com/in/ishugarg" title="LinkedIn">LinkedIn</a>&emsp;
 <i class="fa fa-envelope-square" aria-hidden="true"></i> ishugarg567@gmail.com&emsp;
 <i class="fa fa-phone" aria-hidden="true"></i> +91 97904 68936&emsp;
