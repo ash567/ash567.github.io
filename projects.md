@@ -1,11 +1,11 @@
 ---
-title: Projects
+title:Key Projects
 layout: template
 filename: projects
 --- 
 
 # Projects:
-<ul style="list-style-type:none">
+<ol style="list-style-type:none">
    <li>
       <h3><font color="red">Title: Learning of Structure and Motion from Video </font></h3>
       <h5><i><b><font color="black">Place: </font><font color="red">Machine Learning Department, Carnegie Mellon University, May-July 2017 Pittsburgh, USA </font></b></i></h5>
@@ -23,4 +23,4 @@ filename: projects
          </tr>
       </table>
    </li>
-</ul>
+</ol>
