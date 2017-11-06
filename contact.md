@@ -11,12 +11,8 @@ filename: contact
 <i class="fa fa-facebook" aria-hidden="true"></i> <a href="https://www.facebook.com/ishugarg567" title="facebook">Facebook</a>&emsp;
 <i class="fa fa-skype" aria-hidden="true"></i> ishugarg9&emsp;
 <i class="fa fa-envelope-square" aria-hidden="true"></i> ishugarg567@gmail.com &emsp;
-<i class="fa fa-phone" aria-hidden="true"></i> +91 97904 68936
-
-<i class="fa fa-facebook" aria-hidden="true"></i>
-<a href="https://m.me/ishugarg567">
-    Message me on Facebook
-</a>
+<i class="fa fa-phone" aria-hidden="true"></i> +91 97904 68936 &emsp;
+<i class="fa fa-facebook" aria-hidden="true"></i><a href="https://m.me/ishugarg567">Messenger</a>
 
 <script type="text/javascript" src="https://secure.skypeassets.com/i/scom/js/skype-uri.js"></script>
 <div id="SkypeButton_Call_ishugarg9_1">
