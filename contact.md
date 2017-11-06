@@ -7,4 +7,4 @@ filename: contact
 # Contact Me
 
 
-<a href="www.linkedin.com/in/ishugarg" title="LinkedIn"><i class="fa fa-linkedin" aria-hidden="true"></i>LinkedIn</a>
+<i class="fa fa-linkedin" aria-hidden="true"></i><a href="www.linkedin.com/in/ishugarg" title="LinkedIn">LinkedIn</a>
