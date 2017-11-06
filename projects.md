@@ -3,11 +3,11 @@ title: Projects
 layout: template
 filename: projects
 --- 
+pandoc --filter pandoc-csv2table 2x2.md -t markdown
 
-# Projects
+  -------------- --------------
+    ![](red.png) ![](green.png)
+   ![](blue.png) ![](black.png)
+  -------------- --------------
 
- Right     Left     Center     Default
--------     ------ ----------   -------
-     12     12        12            12
-    123     123       123          123
-      1     1          1             1
+  : 2x2 images in a table
