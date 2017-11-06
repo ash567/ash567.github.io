@@ -6,9 +6,9 @@ filename: projects
 
 # Key Projects:
 THISTLE
-SNOW
+#F0F3F4
 GHOSTWHITE
-<body style="background-color:SNOW;">
+<body style="background-color:#F0F3F4;">
 <ol>
    <li>
       <h5><b><font color="black">Title: </font></b><font color="red">Learning of Structure and Motion from Video</font></h5>
