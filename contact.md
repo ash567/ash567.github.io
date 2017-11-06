@@ -13,6 +13,11 @@ filename: contact
 <i class="fa fa-envelope-square" aria-hidden="true"></i> ishugarg567@gmail.com &emsp;
 <i class="fa fa-phone" aria-hidden="true"></i> +91 97904 68936
 
+<i class="fa fa-facebook" aria-hidden="true"></i>
+<a href="https://m.me/ishugarg567">
+    Message me on Facebook
+</a>
+
 <script type="text/javascript" src="https://secure.skypeassets.com/i/scom/js/skype-uri.js"></script>
 <div id="SkypeButton_Call_ishugarg9_1">
  <script type="text/javascript">
@@ -25,7 +30,3 @@ filename: contact
 </div>
 <script src="https://apis.google.com/js/platform.js" async defer></script>
 <div class="g-hangout" data-render="createhangout"></div>
-
-<a href="https://m.me/ishugarg567">
-    Message me on Facebook
- </a>
