@@ -1,10 +1,10 @@
 ---
 title:Key Projects
 layout: template
-filename:key projects
+filename: projects
 --- 
 
-# Projects:
+# Key Projects:
 <ol style="list-style-type:none">
    <li>
       <h3><font color="red">Title: Learning of Structure and Motion from Video </font></h3>
