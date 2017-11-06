@@ -1,1 +1,13 @@
+---
 theme: jekyll-theme-cayman
+
+future: true
+
+title: Mohan Bhambhani
+description: Final Year DD, CSE, IIT Madras
+
+social_links:
+  github: "https://github.com/mohanpb/"
+  twitter: "https://twitter.com/Mohan_Bhambhani"
+  linkedin: "https://www.linkedin.com/in/mohan-bhambhani-4a375375/"
+---
