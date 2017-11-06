@@ -13,4 +13,4 @@ If you want to reach me out, the best way is to
 <i class="fa fa-skype" aria-hidden="true"></i> ishugarg9<br>
 <i class="fa fa-facebook" aria-hidden="true"></i> <a href="https://www.facebook.com/ishugarg567" title="facebook">Facebook</a>&emsp;
 <i class="fa fa-facebook" aria-hidden="true"></i> <a href="https://m.me/ishugarg567">Messenger</a>&emsp;
-<i class="fa fa-instagram" aria-hidden="true"></i><a href="https://www.instagram.com/ishugarg567/">Insta</a>
+<i class="fa fa-instagram" aria-hidden="true"></i> <a href="https://www.instagram.com/ishugarg567/">Insta</a>
