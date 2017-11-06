@@ -3,11 +3,8 @@ title: Projects
 layout: template
 filename: projects
 --- 
-# Projects
-
-# Publications:
+# Projects:
 <ul>
-
    
 <li> <a href="https://arxiv.org/abs/1704.08300"><h3>Diversity driven Attention Model for Query-based Abstractive Summarization</h3></a><font color="grey"><h5><i><b> Association of Computational Linguistics (ACL), 2017</b></i></h5></font>
    <font color="black"><h5> Preksha Nema, Mitesh M. Khapra, Anirban Laha, Balaraman Ravindran </h5></font>
