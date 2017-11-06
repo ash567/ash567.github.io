@@ -14,7 +14,7 @@ filename: projects
             <img src='/images/query.png'>         
             </td>
             <td valign="top" width="70%"> 
-              <div style = "text-align: justify"> <h6> Worked on 3-D geometry aware deep neural networks that decomposes frame-to-frame pixel motion in terms of cameramotion, object depth, rotation and translation; predicts meaningful depth maps from the single monocular 2-d image,estimates motion and segments moving objects even though such supervision is never provided.</h6></div>
+              <div style = "text-align: justify"> <h6> <font color="red"> Worked on 3-D geometry aware deep neural networks that decomposes frame-to-frame pixel motion in terms of cameramotion, object depth, rotation and translation; predicts meaningful depth maps from the single monocular 2-d image,estimates motion and segments moving objects even though such supervision is never provided.</font></h6></div>
             </td>
          </tr>
       </table>
