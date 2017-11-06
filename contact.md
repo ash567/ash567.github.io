@@ -12,6 +12,17 @@ filename: contact
 
 <i class="fa fa-skype" aria-hidden="true"></i> ishu9&emsp;
 
+<script type="text/javascript" src="https://secure.skypeassets.com/i/scom/js/skype-uri.js"></script>
+<div id="SkypeButton_Call_ishu9_1">
+ <script type="text/javascript">
+ Skype.ui({
+ "name": "dropdown",
+ "element": "SkypeButton_Call_ishu9_1",
+ "participants": ["ishu9"]
+ });
+ </script>
+</div>
+
 <script src="https://apis.google.com/js/platform.js" async defer></script>
 <div class="g-hangout" data-render="createhangout"></div>
 
