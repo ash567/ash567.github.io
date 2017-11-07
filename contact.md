@@ -1,6 +1,6 @@
 ---
 title: Contact Me
-layout: contact_temp
+layout: template
 filename: contact
 --- 
 
