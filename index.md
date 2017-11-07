@@ -14,7 +14,14 @@ filename: index
 </figure> 
 <br><br>
 
-I am a final year undergraduate student at IIT Madras, pursuing a Dual Degree (B.Tech + M.Tech) in the <a href="http://www.cse.iitm.ac.in">Department of Computer Science and Engineering]</a> at <a href="http://www.iitm.ac.in">IIT Madras</a>. I am working under the guidance of <a href="http://www.cse.iitm.ac.in/~miteshk/">Professor Mitesh Khapra</a>.
+I am a final year student at Indian Institute of Technolgy Madras (IITM), pursuing a Dual Degree (B.Tech + M.Tech) in the <a href="http://www.cse.iitm.ac.in">Department of Computer Science and Engineering]</a> at <a href="http://www.iitm.ac.in">IIT Madras</a>. I have almost completed the requirenments of my bachelor's degree and currently working on deep learning in computer vision and natural language processing with my advisor <a href="http://www.cse.iitm.ac.in/~miteshk/">Professor Mitesh Khapra</a> for my masters degree. Along with that, I am also a teaching assistant for the Computer System Design course at IITM taught by Professor C. Siva Ram Murthy.
+
+Over the years at IITM, I was able complete two internships, one at Machine Learning Department at Carnegie Mellon Universiy (MLD, CMU) where I worked with Professor Katerina Fragkiadaki on learning structure and motion from video using deep learning techniques and with Salil Joshi at IBM Research Lab on event and entity extraction from huge amount of raw unstructured data using Natural Language Processing Techniques.
+
+Timeline:
+
+ Jan 3, 2017: Met Youshua
+Apart from mugging (http://www.t5eiitm.org/2016/08/freshie-guide-insti-lingo/), I like 
 
 <h4> This website is new and I am building as time permits.
 <h2> Thanks for visiting my page!</h2><br><br>
