@@ -16,5 +16,4 @@ filename: education
             <td width="40%">Indian Institute of Technology Madras<br>Aug 2013 - May 2018(expected)</h3></td>
             <td width="50%">Dual Degree (B.Tech + M.Tech) in Computer Science and Engineering [Major] and Industrial Engineering [Minor]</td>
             <td width="10%">9.39/10</td>
-         </tr>
-</table>
+         </tr></table>
