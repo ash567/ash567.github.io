@@ -9,8 +9,8 @@ filename: index
 
 --------------------------
  <figure>
-  <img src="/images/ishu_cse.jpg" alt="Ishu Dharmendra Garg">
-  <figcaption align="center">This is me!!</figcaption>
+  <img src="/images/ishu_cse.jpg" alt="Ishu Dharmendra Garg"  align="center">
+  <figcaption>This is me!!</figcaption>
 </figure> 
 <br><br>
 
