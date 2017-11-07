@@ -9,7 +9,7 @@ filename: index
 
 --------------------------
 
-<table class="imgtable" border="0"><tr><td>
+<table class="imgtable" border="0" align="center"><tr><td>
 <img src="/images/ishu_cse.jpg" alt="Ishu Dharmendra Garg" />&nbsp;</td></tr>
 <tr><td align="center">
 This is me!!
