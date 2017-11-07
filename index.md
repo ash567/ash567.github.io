@@ -10,10 +10,13 @@ filename: index
 --------------------------
 
 <table class="imgtable" border="0"><tr><td>
-<img src="/images/ishu_cse.jpg" alt="Varun Gangal" />&nbsp;</td>
+<img src="/images/ishu_cse.jpg" alt="Ishu Dharmendra Garg" />&nbsp;</td>
 <td align="left">
-  I am a final year undergraduate student at IIT Madras, pursuing a Dual Degree (B.Tech + M.Tech) in the <a href="http://www.cse.iitm.ac.in">Department of Computer Science and Engineering]</a> at <a href="http://www.iitm.ac.in">IIT Madras</a>. I am working under the guidance of <a href="http://www.cse.iitm.ac.in/~miteshk/">Professor Mitesh Khapra</a>.
+This is me!!
 </td></tr></table><br><br>
+
+I am a final year undergraduate student at IIT Madras, pursuing a Dual Degree (B.Tech + M.Tech) in the <a href="http://www.cse.iitm.ac.in">Department of Computer Science and Engineering]</a> at <a href="http://www.iitm.ac.in">IIT Madras</a>. I am working under the guidance of <a href="http://www.cse.iitm.ac.in/~miteshk/">Professor Mitesh Khapra</a>.
+
 <h4> This website is new and I am building as time permits.
 <h2> Thanks for visiting my page!</h2><br><br>
 <!-- hitwebcounter Code START -->
