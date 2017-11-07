@@ -44,3 +44,4 @@ Theory and Digital Design +</li>
          <li>Math: Convex Optimization, Number Theory, Linear Algebra, Probability, Graph Theory, Calculus I, Calculus II</li>
          <li>Industrial Engineering: Economics(S), Operation Research(S), Industrial Engineering(S), Computer Simulations(A)</li>
 </ul>
+The courses with + had a separate lab component also!
