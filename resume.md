@@ -1,4 +1,4 @@
---
+---
 title: Resume
 layout: template
 filename: resume
@@ -6,5 +6,5 @@ filename: resume
 
 # Resume/CV
 --------------------------
-One page resume:
+One page resume:<br><br>
 Two page resume:
