@@ -8,9 +8,9 @@ filename: education
 
 <table width="100%" align="center" border="0" cellspacing="0">
          <tr>
-                  <td width="40%"><b><h2>Institute</h2></td>
-                  <td width="40%"><b><h2>Course</h2></td>
-                  <td width="20%"><b><h2>Grade</h2></td>
+                  <th width="40%">Institute
+                  <th width="50%">Course
+                  <th width="10%">Grade
          </tr>
          <tr>
                   <td width="40%">Indian Institute of Technology Madras<br>Aug 2013 - May 2018(expected)</td>
