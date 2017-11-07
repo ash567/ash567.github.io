@@ -42,6 +42,6 @@ Database Systems +, Compiler Design +, Principles of Communication</li>
 Theory and Digital Design +</li>
                   </ul></li>
          <li>Math: Convex Optimization, Number Theory, Linear Algebra, Probability, Graph Theory, Calculus I, Calculus II</li>
-         <li>Industrial Engineering: Economics(S), Operation Research(S), Industrial Engineering(S), Computer Simulations(A)</li>
+         <li>Industrial Engineering: Economics, Operation Research, Industrial Engineering, Computer Simulations</li>
 </ul>
 The courses with + had a separate lab component also!
