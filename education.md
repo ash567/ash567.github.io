@@ -8,12 +8,12 @@ filename: education
 
 <table width="100%" align="center" border="0" cellspacing="0">
          <tr>
-                  <th width="45%" align="left">Institute</th>
-                  <th width="45%" align="left">Course</th>
-                  <th width="10%" align="left">Grade</th>
+                  <th width="45%">Institute</th>
+                  <th width="45%">Course</th>
+                  <th width="10%">Grade</th>
          </tr>
          <tr>
-                  <td width="45%">Indian Institute of Technology Madras<br>Chennai, Aug 2013 - May 2018 (expected)</td>
+                  <td width="45%">Indian Institute of Technology Madras<br>Chennai, Aug 2013 - May 2018</td>
                   <td width="45%">Dual Degree (B.Tech + M.Tech) in Computer Science and Engineering wiht minor in Industrial Engineering</td>
                   <td width="10%">9.39/10.00</td>
          </tr>
