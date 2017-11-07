@@ -1,5 +1,7 @@
 ---
 theme: jekyll-theme-cayman
+show_downloads: true
+google_analytics: UA-109331066-1
 
 future: true
 
