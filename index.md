@@ -23,5 +23,6 @@ filename: index
                                         target="_blank" style="font-family: Arial, Helvetica, sans-serif; 
                                         font-size: 10px; color: #6E6A68; text-decoration: none ;"><em>Count Stats Visits                                        </em>
                                         </a>   
+                                        
+                                        
 
-[![HitCount](http://hits.dwyl.io/ash567/ash567.github.io.svg)](http://hits.dwyl.io/ash567/ash567.github.io)
