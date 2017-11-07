@@ -10,7 +10,7 @@ filename: index
 --------------------------
  <figure>
   <img src="/images/ishu_cse.jpg" alt="Ishu Dharmendra Garg">
-  <figcaption>This is me!!</figcaption>
+  <figcaption align="center">This is me!!</figcaption>
 </figure> 
 <br><br>
 
