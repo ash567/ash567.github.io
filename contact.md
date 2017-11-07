@@ -14,4 +14,4 @@ If you want to reach me out, the best way is to call me or send me a message on 
 <b>Social:</b>&emsp;<i class="fa fa-facebook" aria-hidden="true"></i> <a href="https://www.facebook.com/ishugarg567" title="facebook" target="_blank">Facebook</a>&emsp;
 <i class="fa fa-facebook" aria-hidden="true"></i> <a href="https://m.me/ishugarg567" target="_blank">Messenger</a>&emsp;
 <i class="fa fa-instagram" aria-hidden="true"></i> <a href="https://www.instagram.com/ishugarg567/" target="_blank">Instagram</a>&emsp;
-<i class="fa fa-skype" aria-hidden="true"></i>skype id: ishugarg9
+<i class="fa fa-skype" aria-hidden="true"></i> ishugarg9
