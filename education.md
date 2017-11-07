@@ -29,8 +29,14 @@ filename: education
          </tr>
 </table>
 
-Some of the relavant and important courses taken during my time at Indian Institute of Technology are as follows:
 
+Here is the link of my resume where I have tried to include as many academic details as I can fit in two pages!!: <a href="documents/resume_ishu_two_page.pdf" target="_blank">[PDF]</a> <a href="https://www.overleaf.com/latex/examples/curriculum-vitae/ztykfkztnqfh#.WgLxIryWaIZ" target="_blank">[Template]</a><br><br>
+The resume has be typesetted in Latex. Any suggestion on improving the current version of my resume are more than welcome!
+
+# Academic Achievements
+
+<!--
+Some of the relavant and important courses taken during my time at Indian Institute of Technology are as follows:
 <ul>
          <li>Computer Science:
                   <ul>
@@ -45,3 +51,4 @@ Theory and Digital Design +</li>
          <li>Industrial Engineering: Economics, Operation Research, Industrial Engineering, Computer Simulations</li>
 </ul>
 The courses with + had a separate lab component also!
+-->
