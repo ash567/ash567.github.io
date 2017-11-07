@@ -20,7 +20,7 @@ filename: education
          <tr>
                   <td width="46.5%">Bethany Vidyalaya<br>Durg India, April 2012 - March 2013</td>
                   <td width="43.5%">CBSE Board (Class XII), AISSCE</td>
-                  <td width="10%">93.3/100.00</td>
+                  <td width="10%">93.3/100.0</td>
          </tr>
          <tr>
                   <td width="46.5%">Senior Secondary Sector 10<br>Durg India, April 2010 - March 2011</td>
