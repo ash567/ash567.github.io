@@ -1,6 +1,6 @@
 ---
 theme: jekyll-theme-cayman
-show_downloads: true
+show_downloads: false
 google_analytics: UA-109331066-1
 
 future: true
