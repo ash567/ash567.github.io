@@ -28,10 +28,7 @@ filename: education
                   <td width="10%">9.8/10.0</td>
          </tr>
 </table>
-
-
-Here is the link of my resume where I have tried to include as many academic details as I can fit in two pages!!: <a href="documents/resume_ishu_two_page.pdf" target="_blank">[PDF]</a> <a href="https://www.overleaf.com/latex/examples/curriculum-vitae/ztykfkztnqfh#.WgLxIryWaIZ" target="_blank">[Template]</a><br><br>
-The resume has be typesetted in Latex. Any suggestion on improving the current version of my resume are more than welcome!
+Please find the link of my resume where I have tried to include as many academic details as I can fit in two pages!! The resume has be typesetted in Latex. Any suggestion on improving the current version of my resume are more than welcome!: <a href="documents/resume_ishu_two_page.pdf" target="_blank">[PDF]</a> <a href="https://www.overleaf.com/latex/examples/curriculum-vitae/ztykfkztnqfh#.WgLxIryWaIZ" target="_blank">[Template]</a><br><br>
 
 # Academic Achievements
 
