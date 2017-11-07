@@ -13,17 +13,17 @@ filename: education
                   <th width="10%">Grade</th>
          </tr>
          <tr>
-                  <td width="46.5%">Indian Institute of Technology Madras<br>Chennai, Aug 2013 - May 2018</td>
+                  <td width="46.5%">Indian Institute of Technology Madras<br>Chennai India, Aug 2013 - May 2018</td>
                   <td width="43.5%">Dual Degree (B.Tech + M.Tech) in Computer Science and Engineering wiht minor in Industrial Engineering</td>
                   <td width="10%">9.39/10.00</td>
          </tr>
          <tr>
-                  <td width="46.5%">Bethany Vidyalaya<br>Durg, April 2012 - March 2013</td>
+                  <td width="46.5%">Bethany Vidyalaya<br>Durg India, April 2012 - March 2013</td>
                   <td width="43.5%">CBSE Board (Class XII), AISSCE</td>
                   <td width="10%">93.3/100.00</td>
          </tr>
          <tr>
-                  <td width="46.5%">Senior Secondary Sector 10<br>Durg, April 2010 - March 2011</td>
+                  <td width="46.5%">Senior Secondary Sector 10<br>Durg India, April 2010 - March 2011</td>
                   <td width="43.5%">CBSE Board (Class X), AISSCE</td>
                   <td width="10%">9.8/10.0</td>
          </tr>
