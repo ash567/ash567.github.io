@@ -19,11 +19,11 @@ I am a final year student at Indian Institute of Technolgy Madras (IITM), pursui
 Over the years at IITM, I was able complete two internships, one at Machine Learning Department at Carnegie Mellon Universiy (MLD, CMU) where I worked with Professor Katerina Fragkiadaki on learning structure and motion from video using deep learning techniques and with Salil Joshi at IBM Research Lab on event and entity extraction from huge amount of raw unstructured data using Natural Language Processing Techniques.
 
 Timeline:
-
+<!--
  Jan 3, 2017: Met Youshua
 Apart from mugging (http://www.t5eiitm.org/2016/08/freshie-guide-insti-lingo/), I like 
-
-<h4> This website is new and I am building as time permits.
+-->
+<h4> This website is new and I am building it as time permits.
 <h2> Thanks for visiting my page!</h2><br><br>
 <!-- hitwebcounter Code START -->
 <img src="http://hitwebcounter.com/counter/counter.php?page=6801196&style=0024&nbdigits=5&type=page&initCount=131" title="Website Hit Count" Alt="Website Hit Count" border="0" ><br/>
