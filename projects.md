@@ -5,6 +5,8 @@ filename: projects
 --- 
 
 # Key Projects:
+Updates on the way!
+<!--
 <body style="background-color:white;">
 <ol>
    <li>
@@ -26,3 +28,4 @@ filename: projects
    </li>
 </ol>
 </body>
+-->
