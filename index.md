@@ -26,7 +26,7 @@ Mantra for the month:<br>
 Timeline:
 Deadlines, deadlines, and deadlines.<br>
 <br>
-Words that could not be written:<br>
+What words could not say:<br>
 <iframe width="854" height="480" src="https://www.youtube.com/embed/EO2jJP7mHcE?list=PLKIpMa-tSnMRaBC3-qSvnnolan5qW4V-c" frameborder="0" gesture="media" allowfullscreen></iframe>
 
 <!--
