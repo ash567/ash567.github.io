@@ -21,11 +21,14 @@ Over the years at IITM, I was able complete two internships, one at Machine Lear
 Mantra for the month:<br>
 तुलसी भरोसे राम के, निर्भय हो के सोए।<br>
 अनहोनी होनी नहीं, होनी हो सो होए।।<br>
-
-<iframe width="854" height="480" src="https://www.youtube.com/embed/Eu3qzIx5a8w?list=PLKIpMa-tSnMRaBC3-qSvnnolan5qW4V-c" frameborder="0" gesture="media" allowfullscreen></iframe>
-
+<br>
+ 
 Timeline:
 Deadlines, deadlines, and deadlines.
+<br>
+Words unspoken<br>:
+<iframe width="854" height="480" src="https://www.youtube.com/embed/Eu3qzIx5a8w?list=PLKIpMa-tSnMRaBC3-qSvnnolan5qW4V-c" frameborder="0" gesture="media" allowfullscreen></iframe>
+
 <!--
  Jan 3, 2017: Met Youshua
 Apart from mugging (http://www.t5eiitm.org/2016/08/freshie-guide-insti-lingo/), I like 
