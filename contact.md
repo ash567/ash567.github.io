@@ -14,4 +14,5 @@ If you want to reach me out, the best way is to send email me or message me on h
 <b>Social:</b>&emsp;<i class="fa fa-facebook" aria-hidden="true"></i>&nbsp;<a href="https://www.facebook.com/ishugarg567" title="facebook" target="_blank">Facebook</a>&emsp;
 <i class="fa fa-facebook" aria-hidden="true"></i>&nbsp;<a href="https://m.me/ishugarg567" target="_blank">Messenger</a>&emsp;
 <i class="fa fa-instagram" aria-hidden="true"></i>&nbsp;<a href="https://www.instagram.com/ishugarg567/" target="_blank">Instagram</a>&emsp;
+<i class="fa fa-youtube" aria-hidden="true"></i>&nbsp;<a href="https://www.youtube.com/channel/UCJcek0UeXynKJe5R90Ltwkw" target="_blank">Youtube</a>&emsp;
 <i class="fa fa-skype" aria-hidden="true"></i>&nbsp;ishugarg9
