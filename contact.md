@@ -5,7 +5,7 @@ filename: contact
 --- 
 
 # Get in Touch
-If you want to reach me out, the best way is to send me email me or message me on hangout or messenger!<br><br>
+If you want to reach me out, the best way is to send email me or message me on hangout or messenger!<br><br>
 <b>Professional:</b>&emsp;
 <i class="fa fa-linkedin" aria-hidden="true"></i>&nbsp;<a href="https://www.linkedin.com/in/ishugarg" target="_blank">LinkedIn</a>&emsp;
 <i class="fa fa-github" aria-hidden="true"></i>&nbsp;<a href="https://github.com/ash567" target="_blank">Github</a>&emsp;
