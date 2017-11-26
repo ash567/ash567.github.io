@@ -30,7 +30,7 @@ filename: education
 </table>
 Please find the link of my resume where I have tried to include as many academic details as I can fit in two pages!! The resume has be typesetted in Latex. Any suggestion on improving the current version of my resume are more than welcome! <a href="documents/resume_ishu_two_page.pdf" target="_blank">[PDF]</a> <a href="https://www.overleaf.com/latex/examples/curriculum-vitae/ztykfkztnqfh#.WgLxIryWaIZ" target="_blank">[Template Credits]</a><br><br>
 
-For academic Achievements: <a href="academic_achievements.md" target="_blank">link</a> <br><br>
+For academic Achievements: <a href="academic_achievements" target="_blank">link</a> <br><br>
 <!--
 Some of the relavant and important courses taken during my time at Indian Institute of Technology are as follows:
 <ul>
