@@ -27,8 +27,7 @@ Timeline:
 Deadlines, deadlines, and deadlines.<br>
 <br>
 What words could not say:<br>
-<iframe width="854" height="480" src="https://www.youtube.com/embed/EO2jJP7mHcE?list=PLKIpMa-tSnMRaBC3-qSvnnolan5qW4V-c" frameborder="0" gesture="media" allowfullscreen></iframe>
-
+<iframe width="640" height="360" src="https://www.youtube.com/embed/dWG8IK15dbk?list=PLKIpMa-tSnMRaBC3-qSvnnolan5qW4V-c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <!--
  Jan 3, 2017: Met Youshua
 Apart from mugging (http://www.t5eiitm.org/2016/08/freshie-guide-insti-lingo/), I like 
