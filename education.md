@@ -15,7 +15,7 @@ filename: education
          <tr>
                   <td width="46.5%">Indian Institute of Technology Madras<br>Chennai India, Aug 2013 - May 2018</td>
                   <td width="43.5%">Dual Degree (B.Tech + M.Tech) in Computer Science and Engineering wiht minor in Industrial Engineering</td>
-                  <td width="10%">9.39/10.00</td>
+                  <td width="10%">9.22/10.00</td>
          </tr>
          <tr>
                   <td width="46.5%">Bethany Vidyalaya<br>Durg India, April 2012 - March 2013</td>
